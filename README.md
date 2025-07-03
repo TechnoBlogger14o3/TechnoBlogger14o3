@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Aman Shekhar
 
-Welcome to my GitHub profile! I am a passionate **Mobile App Developer**, **Author**, and **Content Creator**, driven by curiosity and creativity. With expertise in **Android (Kotlin/Java)**, **iOS (Swift/SwiftUI)**, and **React Native**, I strive to build high-performance, scalable mobile apps while constantly learning and sharing knowledge with the community.
+My life story weaves a rich tapestry from the intricate threads of **technology**, **chess**, and the **written word**.  
+I am Aman Shekhar — a **Mobile App Developer** by profession, a **Chess Player** by heart, and an **Aspiring Author** by ambition.
+
+From crafting scalable mobile apps to decoding chess strategies, and penning stories rooted in Indian mythology, I thrive in worlds that demand both logic and creativity. I also share my passion for technology through teaching **Data Structures and Algorithms** on YouTube. Outside the professional sphere, I indulge in reading, traveling, and literary storytelling.
 
 ---
 
@@ -8,29 +11,42 @@ Welcome to my GitHub profile! I am a passionate **Mobile App Developer**, **Auth
 
 - 💻 **GitHub**: [TechnoBlogger14o3](https://github.com/TechnoBlogger14o3)
 - 👔 **LinkedIn**: [Aman Shekhar](https://www.linkedin.com/in/aman-shekhar/)
-- 💡 **Topmate (1:1 Sessions & Mentorship)**: [topmate.io/aman_shekhar](https://topmate.io/aman_shekhar)
+- 💡 **Topmate (1:1 Mentorship)**: [topmate.io/aman_shekhar](https://topmate.io/aman_shekhar)
 
 ---
 
 ## 🧠 Tech Expertise
 
-- **Languages**: Kotlin, Swift, Java, TypeScript, JavaScript, Python  
-- **Frameworks**: Android SDK, SwiftUI, Jetpack Compose, React Native  
-- **Architecture**: MVVM, MVI, Clean Architecture, Redux  
-- **Tools**: Firebase, GitHub Actions, Fastlane, Lottie, Dagger/Hilt, Realm, CoreData  
+- **Languages**: Kotlin, Swift, Java, TypeScript, Python, javascript,   
+- **Frameworks**: Android SDK, SwiftUI, Jetpack Compose, React Native, Node JS  
+- **Architecture**: MVVM, MVI, Redux, Clean Architecture  
+- **Tools**: Firebase, Realm, CoreData, GitHub Actions, Dagger/Hilt, Lottie
+
+## ☁️ Cloud Skills
+
+- **Cloud Providers**: AWS (S3, Lambda, EC2, CloudWatch)  
+- **Backend Integration**: Firebase, AWS Amplify, REST & GraphQL APIs  
+- **CI/CD**: GitHub Actions, Fastlane, AWS CodePipeline  
+- **Security**: IAM, Cognito (basic), Secure Storage
+
+## 🛠 Backend Skills
+
+- **Languages & Frameworks**: Node.js, Spring Boot (Basics)  
+- **Databases**: Firebase Realtime DB, Firestore  
+- **API Development**: RESTful APIs, GraphQL APIs  
+- **Authentication**: Firebase Auth, AWS Cognito  
+- **DevOps**: GitHub Actions, Docker (Basics), AWS Lambda
 
 ---
 
 ## 📚 Author & Storyteller
 
-I'm the author of **mythological fiction** and love blending Indian history and epic storytelling:
-
-- 📖 **[NotionPress Author Page](https://notionpress.com/author/867)**
-- 📘 **[Amazon Book - *Manas’ Quest: Karan’s Kavach Kundal*](https://www.amazon.in/dp/B0CK628QCB)**
+- 📘 **[Amazon Book - *Manas’ Quest: Karan’s Kavach Kundal*](https://www.amazon.in/dp/B0CK628QCB)**  
+- 🖋️ **[NotionPress Author Page](https://notionpress.com/author/867)**
 
 ---
 
-## 📈 Competitive Programming Profiles
+## 📈 Competitive Programming
 
 - ✅ **LeetCode**: [AmanShekhar](https://leetcode.com/u/AmanShekhar/)
 - ✅ **HackerRank**: [Shekhar14](https://www.hackerrank.com/profile/Shekhar14)
@@ -38,36 +54,19 @@ I'm the author of **mythological fiction** and love blending Indian history and 
 
 ---
 
-## 🎥 YouTube & Writing
+## 🎥 Content Creation
 
-- 🧠 **YouTube**: [@technoBlogger14o3](https://www.youtube.com/@technoBlogger14o3/playlists) — *DSA, Tech Reviews, Tutorials*
-- ✍️ **Medium Blog**: [shekhar14.medium.com](https://shekhar14.medium.com/) — *Mobile Development, Mythology & Productivity*
-
----
-
-## 🛠️ Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| **React Native Scanner App** | Intelligent OCR-based app with AI categorization |
-| **Fitness Nutrition Planner** | Android & iOS native app to track meals and workouts |
-| **Somras Saga Series** | A blend of Indian mythology and thriller fiction in literary form |
+- 🎓 **YouTube**: [@technoBlogger14o3](https://www.youtube.com/@technoBlogger14o3/playlists) — DSA, Tech & Tutorials  
+- ✍️ **Medium**: [shekhar14.medium.com](https://shekhar14.medium.com/) — Dev Blogs, Mythology & Personal Insights  
 
 ---
 
 ## 🌱 Current Goals
 
-- 📱 Master Jetpack Compose & SwiftUI animations  
-- 🧪 Achieve 100% test coverage across my mobile projects  
+- 📱 Complete AWS, and learn System Designing  
 - 📚 Publish the final book in the **Manas Saga**  
-- ♟️ Improve FIDE chess rating and publish a chess+tech blog series
+- ♟️ Get a FIDE chess rating and publish a chess+tech blog series
 
 ---
 
-## 📬 Connect with Me
-
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/aman-shekhar/), schedule a session on [Topmate](https://topmate.io/aman_shekhar), or explore my [YouTube Channel](https://www.youtube.com/@technoBlogger14o3/playlists).
-
-Let's learn, build, and grow together! 🚀
-
----
+📩 *Thanks for visiting! Let's build, learn, and inspire together.* 🚀
