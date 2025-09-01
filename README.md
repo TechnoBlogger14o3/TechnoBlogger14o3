@@ -1,7 +1,7 @@
 # Hi, I'm Aman Shekhar
 
 My life story weaves a rich tapestry from the intricate threads of **technology**, **chess**, and the **written word**.  
-I am Aman Shekhar — a **Mobile App Developer** by profession.
+I am Aman Shekhar — a **Fullstack Developer** by profession.
 
 ---
 
