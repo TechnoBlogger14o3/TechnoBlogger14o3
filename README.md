@@ -7,7 +7,7 @@ I am Aman Shekhar — a **Fullstack Developer** by profession.
 ## Tech Expertise
 
 - **Languages**: Kotlin, Swift, Java, TypeScript, Python, JavaScript
-- **Frameworks**: Android SDK, SwiftUI, Jetpack Compose, React Native, Node.js
+- **Frameworks**: Android SDK, SwiftUI, React, React Native, Node.js
 - **Architecture**: MVVM, MVI, Redux, Clean Architecture
 - **Tools**: Firebase, Realm, CoreData, GitHub Actions, Dagger/Hilt, Lottie
 
@@ -30,8 +30,8 @@ I am Aman Shekhar — a **Fullstack Developer** by profession.
 
 ## Current Goals
 
-- Complete AWS certification and learn System Designing
-- Get a FIDE chess rating and publish a chess + tech blog series
+- Complete AWS certification.
+- Get a FIDE chess rating and publish a chess + tech blog series.
 
 ---
 
@@ -44,7 +44,7 @@ I am Aman Shekhar — a **Fullstack Developer** by profession.
 - **Stack Overflow**: [aman-shekhar](https://stackoverflow.com/users/3469691/aman-shekhar)
 - **YouTube**: [technoBlogger14o3](https://youtube.com/@technoBlogger14o3)
 - **Medium**: [shekhar14](https://medium.com/@shekhar14)
-- **Amazon Book**: [B0CK628QCB](https://www.amazon.com/dp/B0CK628QCB)
+- **Amazon Book**: [B0CK628QCB](https://www.amazon.in/dp/B0DK258DF5)
 - **Notion Press**: [Author 867](https://notionpress.com/author/867)
 - **Topmate**: [aman_shekhar](https://topmate.io/aman_shekhar)
 
