@@ -41,7 +41,7 @@ I am Aman Shekhar — a **Fullstack Developer** by profession.
 - **GitHub**: [TechnoBlogger14o3](https://github.com/TechnoBlogger14o3)
 - **HackerRank**: [Shekhar14](https://www.hackerrank.com/Shekhar14)
 - **LeetCode**: [AmanShekhar](https://leetcode.com/AmanShekhar)
-- **Stack Overflow**: [aman-shekhar](https://stackoverflow.com/users/aman-shekhar)
+- **Stack Overflow**: [aman-shekhar](https://stackoverflow.com/users/3469691/aman-shekhar)
 - **YouTube**: [technoBlogger14o3](https://youtube.com/@technoBlogger14o3)
 - **Medium**: [shekhar14](https://medium.com/@shekhar14)
 - **Amazon Book**: [B0CK628QCB](https://www.amazon.com/dp/B0CK628QCB)
